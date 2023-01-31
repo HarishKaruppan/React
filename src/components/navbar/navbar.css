@@ -1,0 +1,12 @@
+.navbar {
+  height: 70px;
+  line-height: 70px;
+  background-color: #007fff;
+  color: white;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.icon {
+  margin-left: 5px;
+}

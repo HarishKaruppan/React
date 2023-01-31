@@ -1,0 +1,20 @@
+.view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgb(184 173 173);
+}
+.viewDetails {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.button {
+  width: 200px;
+  background: transparent;
+  color: white;
+  padding: 7px 5px;
+  border: 2px solid white;
+  cursor: pointer;
+}
